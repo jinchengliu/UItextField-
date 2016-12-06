@@ -1,0 +1,4 @@
+http://blog.csdn.net/LVXIANGAN/article/details/46833847
+ IOS之UITextField 禁止粘贴
+
+
